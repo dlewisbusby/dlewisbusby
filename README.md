@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on Full Stack Web Design!
+- 🌱 I’m currently learning REST, Spring MVC, Gradle/Maven
+- 👯 I’m looking to collaborate on Nothing!
+- 🤔 I’m looking for help with life.
+- 💬 Ask me about Food & Beverage industry
+- 📫 How to reach me: Carefully
+- 😄 Pronouns: No i'm proverbs
+- ⚡ Fun fact: Winnie the Pooh is the only book to make the NYTimes best seller list as a latin translation.
+
 <!--
 **dlewisbusby/dlewisbusby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
